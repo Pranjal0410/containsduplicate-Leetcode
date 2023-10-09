@@ -1,2 +1,3 @@
 # containsduplicate-Leetcode
 Python
+contain
